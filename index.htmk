@@ -1,0 +1,413 @@
+<title>The Careernet Group Newsletter</title>
+
+<style type="text/css">
+    /* Client-specific Resets */
+    html, body {
+        margin: 0 auto !important;
+        height: 100% !important;
+        width: 100% !important;
+        background-color: #F1F5F9;
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+    }
+
+    #outlook a { padding: 0; }
+
+    .ExternalClass { width: 100%; }
+
+    .ExternalClass,
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td,
+    .ExternalClass div {
+        line-height: 100%;
+    }
+
+    * {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        font-family: Arial, Inter, Helvetica, sans-serif !important;
+    }
+
+    div[style*="margin: 16px 0;"] {
+        margin: 0 !important;
+    }
+
+    table,
+    td {
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+        margin: 0;
+        padding: 0;
+    }
+
+    table {
+        border-spacing: 0 !important;
+        border-collapse: collapse !important;
+        margin: 0 auto !important;
+    }
+
+    img {
+        -ms-interpolation-mode: bicubic;
+        display: block;
+        border: 0;
+        outline: none;
+        text-decoration: none;
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    a {
+        text-decoration: none;
+        color: #008CB6;
+    }
+
+    /* Gmail Mobile Font-Boosting & Scaling Fixes */
+    u + #body a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+    }
+
+    /* Mobile Responsive Styles */
+    @media screen and (max-width: 600px) {
+
+        .gmail-fix {
+            width: 100% !important;
+            min-width: 100% !important;
+        }
+
+        .main-container {
+            width: 100% !important;
+            min-width: 100% !important;
+            border-radius: 0px !important;
+        }
+
+        .mobile-padding {
+            padding-top: 28px !important;
+            padding-bottom: 28px !important;
+            padding-left: 16px !important;
+            padding-right: 16px !important;
+        }
+
+        .responsive-column {
+            display: block !important;
+            width: 100% !important;
+            max-width: 100% !important;
+            direction: ltr !important;
+            padding-right: 0 !important;
+            padding-left: 0 !important;
+            box-sizing: border-box !important;
+        }
+
+        .mobile-stack-gap {
+            padding-top: 24px !important;
+        }
+
+        .mobile-img-wrapper {
+            padding-top: 8px !important;
+            padding-bottom: 16px !important;
+        }
+
+        img.responsive-img {
+            width: 100% !important;
+            max-width: 100% !important;
+            height: auto !important;
+        }
+
+        .mobile-title {
+            font-size: 22px !important;
+            line-height: 1.3 !important;
+            margin-bottom: 12px !important;
+        }
+
+        .mobile-subtitle {
+            font-size: 18px !important;
+            line-height: 1.3 !important;
+            margin-bottom: 16px !important;
+        }
+
+        .mobile-section-title {
+            font-size: 15px !important;
+            line-height: 1.35 !important;
+            margin-bottom: 16px !important;
+        }
+
+        .mobile-rec-title {
+            font-size: 15px !important;
+            line-height: 1.3 !important;
+            margin-bottom: 6px !important;
+        }
+    }
+</style>
+
+<center style="width: 100%; background-color: #F1F5F9; padding: 0px; margin: 0; font-family: Arial, Inter, Helvetica, sans-serif;">
+
+    <!-- PREHEADER TEXT -->
+    <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; padding: 0px;">
+        AI is helping candidates cheat. It is also helping the best-fit talent ship faster. Your next hire depends on telling the two apart.
+    </div>
+
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#F1F5F9" class="gmail-fix" style="background-color: #F1F5F9; padding: 0px; margin: 0; width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+        <tbody>
+            <tr>
+                <td align="center" bgcolor="#F1F5F9" style="padding: 0px; margin: 0; background-color: #F1F5F9;">
+
+                    <!-- MAIN CONTAINER -->
+                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" align="center" bgcolor="#FFFFFF" class="main-container" style="width: 600px; max-width: 600px; margin: 0 auto; background-color: #FFFFFF; border-radius: 12px; overflow: hidden; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+
+                        <!-- HERO BANNER -->
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#FFFFFF" style="background-color: #FFFFFF; padding: 0px; margin: 0;" align="center">
+                                    <a href="https://careernet.in/" target="_blank" rel="noopener noreferrer" style="display: block;">
+                                        <img src="https://mycareernet.co/events/wp-content/uploads/2026/10/email-banner-oct.png"
+                                             width="600"
+                                             alt="The Careernet Group Newsletter"
+                                             class="responsive-img"
+                                             style="width: 100%; max-width: 600px; height: auto !important; display: block; border: 0;">
+                                    </a>
+                                </td>
+                            </tr>
+
+                            <!-- INTRO SECTION -->
+                            <tr>
+                                <td bgcolor="#FFFFFF" class="mobile-padding" style="padding: 36px 24px 20px 24px; background-color: #FFFFFF;" align="center">
+
+                                    <h1 class="mobile-title" style="margin: 0 0 16px 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 24px; line-height: 32px; mso-line-height-rule: exactly; color: #06325E; font-weight: bold; text-align: center;">
+                                        AI is helping candidates cheat. It is also helping the best-fit talent ship faster.
+                                    </h1>
+
+                                    <p style="margin: 0 0 16px 0; font-family: Arial, Inter, Helvetica, sans-serif; text-align: center; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #000000;">
+                                        Your next hire depends on telling the two apart. This edition shows the data and the teams already doing it.
+                                    </p>
+
+                                </td>
+                            </tr>
+
+                            <!-- THIS MONTH'S HIGHLIGHT -->
+                            <tr>
+                                <td bgcolor="#06325E" class="mobile-padding" style="padding: 32px 24px 36px 24px; background-color: #06325E;" align="center">
+
+                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#06325E" style="background-color: #06325E; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tbody>
+
+                                            <tr>
+                                                <td align="center" bgcolor="#06325E" style="padding-bottom: 16px;">
+                                                    <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 12px; line-height: 16px; mso-line-height-rule: exactly; font-weight: bold; color: #f3b72c; text-transform: uppercase; text-align: center; letter-spacing: 0.5px;">
+                                                        THIS MONTH'S HIGHLIGHT
+                                                    </p>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td align="center" bgcolor="#06325E" style="padding-bottom: 16px;">
+                                                    <h2 class="mobile-subtitle" style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 22px; line-height: 30px; mso-line-height-rule: exactly; color: #FFFFFF; font-weight: bold; text-align: center;">
+                                                        AI is now behind 1 in 8 cheating cases, up 50% in a year
+                                                    </h2>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td align="center" bgcolor="#06325E" style="padding-bottom: 16px;">
+                                                    <img src="https://mycareernet.co/events/wp-content/uploads/2026/10/The-definitive-report-on-Indias-GCC-ecosystem.png"
+                                                         width="520"
+                                                         alt="AI assessment cheating report"
+                                                         class="responsive-img"
+                                                         style="width: 100%; max-width: 520px; height: auto !important; display: block; border: 0; margin: 0 auto;">
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td align="center" bgcolor="#06325E" style="padding-bottom: 20px;">
+                                                    <p style="margin: 0; font-family: Arial, Inter, Helvetica, sans-serif; font-size: 14px; line-height: 22px; mso-line-height-rule: exactly; color: #FFFFFF; text-align: center;">
+                                                        Assessment cheating has climbed from 32% to 45% in five years, while interview cheating has nearly doubled. With a bad hire costing up to 30% of first-year earnings, our new report shows where the risk sits in your funnel.
+                                                    </p>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td align="center" bgcolor="#06325E">
+
+                                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="margin: 0 auto !important; border-collapse: separate;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td bgcolor="#008CB6" align="center" style="border-radius:32px; background-color: #008CB6; padding: 12px 26px; mso-padding-alt: 12px 26px;">
+                                                                    <a href="https://careernet.in/" target="_blank" style="font-family: Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:16px; font-weight:bold; color:#FFFFFF; text-decoration:none; display: inline-block; background-color: #008CB6; text-align: center; letter-spacing: 0.3px;">
+                                                                        Get The Report
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+
+                                                </td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                            <!-- CUSTOMER SUCCESS STORIES -->
+                            <tr>
+                                <td bgcolor="#FFFFFF" class="mobile-padding" style="padding:32px 24px; background-color:#FFFFFF;" align="center">
+                                    <p style="margin:0 0 6px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:12px; line-height:16px; font-weight:bold; color:#008CB6; text-transform:uppercase; text-align:center; letter-spacing:0.5px;">CUSTOMER SUCCESS STORIES</p>
+                                    <h2 class="mobile-subtitle" style="margin:0 0 22px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:22px; line-height:30px; color:#06325E; font-weight:bold; text-align:center;">Customer outcomes that move hiring forward</h2>
+
+                                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="560" bgcolor="#FFFFFF" style="width:100%; max-width:560px; background-color:#FFFFFF; border-collapse:collapse;" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td width="48" valign="top" align="center" style="width:48px; padding:0 12px 18px 0;">
+                                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="40" style="width:40px; border-collapse:separate;"><tr><td width="40" height="40" align="center" valign="middle" bgcolor="#E6F5FA" style="width:40px; height:40px; background-color:#E6F5FA; border-radius:20px; font-size:21px; line-height:40px;">🏦</td></tr></table>
+                                                </td>
+                                                <td valign="top" align="left" style="padding:0 0 18px 0; border-bottom:1px solid #E5EDF2;">
+                                                    <h3 style="margin:0 0 5px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:16px; line-height:22px; color:#06325E; font-weight:bold; text-align:left;">73% offer-to-join against the market norm</h3>
+                                                    <p style="margin:0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#000000; text-align:left;">A global retail bank’s India GCC teamed up with us to turn <a href="https://careernet.in/" target="_blank" style="color:#000000; text-decoration:underline;">200–250 active requisitions into 325+ offers</a>.</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="48" valign="top" align="center" style="width:48px; padding:18px 12px 18px 0;">
+                                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="40" style="width:40px; border-collapse:separate;"><tr><td width="40" height="40" align="center" valign="middle" bgcolor="#E6F5FA" style="width:40px; height:40px; background-color:#E6F5FA; border-radius:20px; font-size:21px; line-height:40px;">🏭</td></tr></table>
+                                                </td>
+                                                <td valign="top" align="left" style="padding:18px 0; border-bottom:1px solid #E5EDF2;">
+                                                    <h3 style="margin:0 0 5px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:16px; line-height:22px; color:#06325E; font-weight:bold; text-align:left;">69% of joiners from outside a GCC’s home city</h3>
+                                                    <p style="margin:0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#000000; text-align:left;">An industrial enterprise’s India center hit a <a href="https://careernet.in/" target="_blank" style="color:#000000; text-decoration:underline;">72% post-offer joining ratio and 6X social follower growth</a> with our integrated solution suite.</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="48" valign="top" align="center" style="width:48px; padding:18px 12px 18px 0;">
+                                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="40" style="width:40px; border-collapse:separate;"><tr><td width="40" height="40" align="center" valign="middle" bgcolor="#E6F5FA" style="width:40px; height:40px; background-color:#E6F5FA; border-radius:20px; font-size:21px; line-height:40px;">🎯</td></tr></table>
+                                                </td>
+                                                <td valign="top" align="left" style="padding:18px 0; border-bottom:1px solid #E5EDF2;">
+                                                    <h3 style="margin:0 0 5px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:16px; line-height:22px; color:#06325E; font-weight:bold; text-align:left;">10K+ interviews across 200+ skills, reported within 24 hours</h3>
+                                                    <p style="margin:0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#000000; text-align:left;">A GCC enablement organization <a href="https://careernet.in/" target="_blank" style="color:#000000; text-decoration:underline;">scaled technical interviews across 20+ business units</a> using our Interview-as-a-Service solution.</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="48" valign="top" align="center" style="width:48px; padding:18px 12px 18px 0;">
+                                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="40" style="width:40px; border-collapse:separate;"><tr><td width="40" height="40" align="center" valign="middle" bgcolor="#E6F5FA" style="width:40px; height:40px; background-color:#E6F5FA; border-radius:20px; font-size:21px; line-height:40px;">💻</td></tr></table>
+                                                </td>
+                                                <td valign="top" align="left" style="padding:18px 0; border-bottom:1px solid #E5EDF2;">
+                                                    <h3 style="margin:0 0 5px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:16px; line-height:22px; color:#06325E; font-weight:bold; text-align:left;">From 21K+ registrations to 123 internship offers in one hackathon</h3>
+                                                    <p style="margin:0 0 8px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#000000; text-align:left;">A leading consulting firm came back to us to turn its prestigious national hackathon into its summer intern class yet again.</p>
+                                                    <a href="https://hirepro.in/resources/case-studies/how-a-global-consulting-leader-engaged-22000-students-and-built-a-scalable-intern-hiring-program" target="_blank" style="font-family:Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:18px; font-weight:bold; color:#008CB6; text-decoration:none;">Explore The Playbook →</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="48" valign="top" align="center" style="width:48px; padding:18px 12px 0 0;">
+                                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="40" style="width:40px; border-collapse:separate;"><tr><td width="40" height="40" align="center" valign="middle" bgcolor="#E6F5FA" style="width:40px; height:40px; background-color:#E6F5FA; border-radius:20px; font-size:21px; line-height:40px;">🌐</td></tr></table>
+                                                </td>
+                                                <td valign="top" align="left" style="padding:18px 0 0 0;">
+                                                    <h3 style="margin:0 0 5px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:16px; line-height:22px; color:#06325E; font-weight:bold; text-align:left;">45K+ Versant assessments with no physical test centers</h3>
+                                                    <p style="margin:0 0 8px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#000000; text-align:left;">A European public university moved its English testing online leveraging our expertise as Pearson’s remote proctoring partner.</p>
+                                                    <a href="https://careernet.in/" target="_blank" style="font-family:Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:18px; font-weight:bold; color:#008CB6; text-decoration:none;">See The Strategy →</a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- TALENT ENGAGEMENT -->
+                            <tr>
+                                <td bgcolor="#06325E" class="mobile-padding" style="padding:32px 24px; background-color:#06325E;" align="center">
+                                    <p style="margin:0 0 6px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:12px; line-height:16px; font-weight:bold; color:#f3b72c; text-transform:uppercase; text-align:center; letter-spacing:0.5px;">TALENT ENGAGEMENT</p>
+                                    <h2 class="mobile-subtitle" style="margin:0 0 20px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:22px; line-height:30px; color:#FFFFFF; font-weight:bold; text-align:center;">Two cities. One day. The right engineers in both rooms.</h2>
+                                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="560" bgcolor="#06325E" style="width:100%; max-width:560px; background-color:#06325E; border-collapse:collapse;" align="center">
+                                        <tr><td align="center" bgcolor="#06325E" style="background-color:#06325E;">
+                                            <img src="https://mycareernet.co/events/wp-content/uploads/2026/10/Grab-Wayfair-Arm-and-Ensemble-met-the-right-talent.png" width="520" alt="Talent engagement events" class="responsive-img" style="width:100%; max-width:520px; height:auto !important; display:block; border:0; margin:0 auto 20px auto;">
+                                            <p style="margin:0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#FFFFFF; text-align:center;">On October 9, we brought 45+ technologists to Wayfair AI Nexus 2026 in Bengaluru and 50+ senior engineers to Ensemble’s tech meetup in Hyderabad.</p>
+                                        </td></tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- TALENT INTELLIGENCE -->
+                            <tr>
+                                <td bgcolor="#F1F5F9" class="mobile-padding" style="padding:32px 24px; background-color:#F1F5F9;" align="center">
+                                    <p style="margin:0 0 6px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:12px; line-height:16px; font-weight:bold; color:#008CB6; text-transform:uppercase; text-align:center; letter-spacing:0.5px;">TALENT INTELLIGENCE</p>
+                                    <h2 class="mobile-subtitle" style="margin:0 0 16px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:20px; line-height:28px; text-align:center; color:#06325E; font-weight:bold;">What ABB’s Head of AI/ML actually screens for</h2>
+                                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="560" bgcolor="#F1F5F9" style="width:100%; max-width:560px; background-color:#F1F5F9; border-collapse:collapse;" align="center">
+                                        <tr>
+                                            <td width="270" valign="middle" align="center" bgcolor="#F1F5F9" class="responsive-column mobile-img-wrapper" style="width:270px; background-color:#F1F5F9; padding-right:20px;">
+                                                <img src="https://mycareernet.co/events/wp-content/uploads/2026/10/The-AI-model-is-10-is-what-gets-candidates-hired.png" width="270" alt="AI talent intelligence" class="responsive-img" style="width:100%; max-width:270px; height:auto !important; display:block; border:0; margin:0 auto;">
+                                            </td>
+                                            <td width="290" valign="middle" align="left" bgcolor="#F1F5F9" class="responsive-column" style="width:290px; background-color:#F1F5F9;">
+                                                <p style="margin:0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#000000; text-align:left;">Not the tools on a CV. Parikshit Nag tells Mridul Kumar, our Head of Products, he hires on fundamentals, trade-offs, and impact.</p>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- HAPPENING SOON -->
+                            <tr>
+                                <td bgcolor="#FFFFFF" class="mobile-padding" style="padding:32px 24px; background-color:#FFFFFF;" align="center">
+                                    <p style="margin:0 0 6px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:12px; line-height:16px; font-weight:bold; color:#008CB6; text-transform:uppercase; text-align:center; letter-spacing:0.5px;">HAPPENING SOON</p>
+                                    <h2 class="mobile-subtitle" style="margin:0 0 16px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:22px; line-height:30px; color:#06325E; font-weight:bold; text-align:center;">CareerTech 6.0 – Mission AI: Possible</h2>
+                                    <img src="https://mycareernet.co/events/wp-content/uploads/2025/10/careertech5.0-1-scaled.webp" width="520" alt="CareerTech 6.0 – Mission AI: Possible" class="responsive-img" style="width:100%; max-width:520px; height:auto !important; display:block; border:0; margin:0 auto 18px auto;">
+                                    <p style="margin:0 0 20px 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#000000; text-align:center;">Six tech tracks, 2K+ assessed candidates with 2–10 years’ experience, and zero hiring fee. Every candidate is tested for AI fluency as well as technical depth.</p>
+                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto !important; border-collapse:separate;"><tr><td bgcolor="#008CB6" align="center" style="border-radius:32px; background-color:#008CB6; padding:12px 26px; mso-padding-alt:12px 26px;"><a href="mailto:sales@careernet.in" target="_blank" style="font-family:Arial, Inter, Helvetica, sans-serif; font-size:13px; line-height:16px; font-weight:bold; color:#FFFFFF; text-decoration:none; display:inline-block; background-color:#008CB6; text-align:center;">Partner With Us →</a></td></tr></table>
+                                    <p style="margin:20px 0 0 0; font-family:Arial, Inter, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#000000; text-align:center;">Any query, contact <a href="mailto:sales@careernet.in" style="color:#008CB6; text-decoration:none;">sales@careernet.in</a></p>
+                                </td>
+                            </tr>
+
+                            <!-- FOOTER -->
+                            <tr>
+                                <td bgcolor="#06325E" style="padding: 24px 20px; background-color: #06325E; border-top: 1px solid #008CB6;" align="center">
+
+                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#06325E" style="background-color: #06325E; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tbody>
+                                            <tr>
+
+                                                <td bgcolor="#06325E" style="padding: 0 12px; background-color: #06325E;">
+                                                    <a href="https://www.linkedin.com/company/careernet-consulting/" target="_blank" style="display: block;">
+                                                        <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/linkedin.png"
+                                                             width="24"
+                                                             height="24"
+                                                             alt="LinkedIn"
+                                                             style="width: 24px !important; height: 24px !important; display: block; border: 0;">
+                                                    </a>
+                                                </td>
+
+                                                <td bgcolor="#06325E" style="padding: 0 12px; background-color: #06325E;">
+                                                    <a href="https://www.youtube.com/channel/UCcZeB6yJjvS4LlL1cO3KL-g" target="_blank" style="display: block;">
+                                                        <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/youtube.png"
+                                                             width="24"
+                                                             height="24"
+                                                             alt="YouTube"
+                                                             style="width: 24px !important; height: 24px !important; display: block; border: 0;">
+                                                    </a>
+                                                </td>
+
+                                                <td bgcolor="#06325E" style="padding: 0 12px; background-color: #06325E;">
+                                                    <a href="https://careernet.in/" target="_blank" style="display: block;">
+                                                        <img src="https://mycareernet.co/events/wp-content/uploads/2026/07/website.png"
+                                                             width="24"
+                                                             height="24"
+                                                             alt="Website"
+                                                             style="width: 24px !important; height: 24px !important; display: block; border: 0;">
+                                                    </a>
+                                                </td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
